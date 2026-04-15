@@ -51,19 +51,29 @@ I'm **Silent Wolf** — a self-taught developer from 🇰🇪 Kenya who builds t
 ### 🚀 TOP REPOS
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sil3nt-wolf&theme=github_dark" alt="Profile Summary" />
+  <a href="https://github.com/sil3nt-wolf?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sil3nt-wolf&theme=github_dark" alt="Profile Summary" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sil3nt-wolf&theme=github_dark" alt="Repos Per Language" />
+  <a href="https://github.com/sil3nt-wolf?tab=repositories&language=javascript">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sil3nt-wolf&theme=github_dark" alt="Repos Per Language" />
+  </a>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sil3nt-wolf&theme=github_dark" alt="Most Commit Language" />
+  <a href="https://github.com/sil3nt-wolf?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sil3nt-wolf&theme=github_dark" alt="Most Commit Language" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sil3nt-wolf&theme=github_dark" alt="Stats" />
+  <a href="https://github.com/sil3nt-wolf">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sil3nt-wolf&theme=github_dark" alt="Stats" />
+  </a>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sil3nt-wolf&theme=github_dark&utcOffset=3" alt="Productive Time" />
+  <a href="https://github.com/sil3nt-wolf?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sil3nt-wolf&theme=github_dark&utcOffset=3" alt="Productive Time" />
+  </a>
 </p>
 
 ---
