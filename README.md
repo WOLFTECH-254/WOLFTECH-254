@@ -13,12 +13,12 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/sil3nt-wolf/followers">
-      <img src="https://img.shields.io/github/followers/sil3nt-wolf?color=00ff00&style=flat-square&label=Followers&labelColor=000000&logo=github&logoColor=00ff00" />
+    <a href="https://github.com/WOLFTECH-254/followers">
+      <img src="https://img.shields.io/github/followers/WOLFTECH-254?color=00ff00&style=flat-square&label=Followers&labelColor=000000&logo=github&logoColor=00ff00" />
     </a>
     &nbsp;
-    <a href="https://komarev.com/ghpvc/?username=sil3nt-wolf">
-      <img src="https://komarev.com/ghpvc/?username=sil3nt-wolf&color=00ff00&style=flat-square&label=Profile+Views&labelColor=000000" />
+    <a href="https://komarev.com/ghpvc/?username=WOLFTECH-254">
+      <img src="https://komarev.com/ghpvc/?username=WOLFTECH-254&color=00ff00&style=flat-square&label=Profile+Views&labelColor=000000" />
     </a>
     &nbsp;
     <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-00ff00?style=flat-square&labelColor=000000" />
@@ -35,15 +35,15 @@
   ### ⚡ MY STATS
 
   <p align="center">
-    <img src="https://github-readme-stats-eight-navy.vercel.app/api?username=sil3nt-wolf&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&border_color=00ff00" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-navy.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&border_color=00ff00" alt="GitHub Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats-eight-navy.vercel.app/api/top-langs/?username=sil3nt-wolf&theme=chartreuse-dark&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff00&text_color=9ca3af" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-navy.vercel.app/api/top-langs/?username=WOLFTECH-254&theme=chartreuse-dark&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00ff00&text_color=9ca3af" alt="Top Languages" />
   </p>
 
   <p align="center">
-    <img width="440" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sil3nt-wolf&count_private=true&theme=chartreuse-dark&border_radius=10&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=9ca3af&dates=6b7280" alt="Streak Stats" />
+    <img width="440" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=WOLFTECH-254&count_private=true&theme=chartreuse-dark&border_radius=10&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=9ca3af&dates=6b7280" alt="Streak Stats" />
   </p>
 
   ---
@@ -55,24 +55,24 @@
   <!-- TOP-REPOS:START -->
   | # | Repository | ⭐ Stars | 🍴 Forks | Description |
   |---|------------|---------|---------|-------------|
-  | 1 | [**silentwolf**](https://github.com/sil3nt-wolf/silentwolf) | 68 | 91 | 🐺 Silent Wolf (WOLFBOT) — Feature-rich WhatsApp automation bot built with Node.js & Baileys. AI assistants, group management, media downloaders, games, and 200+ commands. Self-hostable. WolfTech. |
-  | 2 | [**silentwolf-1.1.6**](https://github.com/sil3nt-wolf/silentwolf-1.1.6) | 8 | 10 | 🐺 Silent Wolf v1.1.6 (WOLFBOT) — Stable release of the feature-rich WhatsApp automation bot. Built with Node.js & Baileys. AI assistants, group management, media downloaders, games, and 200+ commands. WolfTech. |
-  | 3 | [**wolfXnode**](https://github.com/sil3nt-wolf/wolfXnode) | 7 | 2 | 🖥️ wolfXnode — Self-hostable VPS & game server hosting panel. WolfTech. |
-  | 4 | [**wolfXcore**](https://github.com/sil3nt-wolf/wolfXcore) | 5 | 3 | wolfXcore — A cyberpunk-themed game server management panel with Paystack/M-Pesa billing, automated provisioning, and a full Super Admin control panel. Built with Laravel 11 + React/TypeScript. |
-  | 5 | [**wolfxcore-docs**](https://github.com/sil3nt-wolf/wolfxcore-docs) | 4 | 0 | wolfXcore panel documentation — neon cyberpunk static site |
+  | 1 | [**silentwolf**](https://github.com/WOLFTECH-254/silentwolf) | 68 | 91 | 🐺 Silent Wolf (WOLFBOT) — Feature-rich WhatsApp automation bot built with Node.js & Baileys. AI assistants, group management, media downloaders, games, and 200+ commands. Self-hostable. WolfTech. |
+  | 2 | [**silentwolf-1.1.6**](https://github.com/WOLFTECH-254/silentwolf-1.1.6) | 8 | 10 | 🐺 Silent Wolf v1.1.6 (WOLFBOT) — Stable release of the feature-rich WhatsApp automation bot. Built with Node.js & Baileys. AI assistants, group management, media downloaders, games, and 200+ commands. WolfTech. |
+  | 3 | [**wolfXnode**](https://github.com/WOLFTECH-254/wolfXnode) | 7 | 2 | 🖥️ wolfXnode — Self-hostable VPS & game server hosting panel. WolfTech. |
+  | 4 | [**wolfXcore**](https://github.com/WOLFTECH-254/wolfXcore) | 5 | 3 | wolfXcore — A cyberpunk-themed game server management panel with Paystack/M-Pesa billing, automated provisioning, and a full Super Admin control panel. Built with Laravel 11 + React/TypeScript. |
+  | 5 | [**wolfxcore-docs**](https://github.com/WOLFTECH-254/wolfxcore-docs) | 4 | 0 | wolfXcore panel documentation — neon cyberpunk static site |
 
   <!-- TOP-REPOS:END -->
 
   <p align="center">
-    <a href="https://github.com/sil3nt-wolf">
+    <a href="https://github.com/WOLFTECH-254">
       <img src="https://img.shields.io/badge/👤%20View%20Profile-000000?style=for-the-badge&logo=github&logoColor=00ff00&color=000000&labelColor=000000" />
     </a>
     &nbsp;
-    <a href="https://github.com/sil3nt-wolf?tab=repositories">
+    <a href="https://github.com/WOLFTECH-254?tab=repositories">
       <img src="https://img.shields.io/badge/📁%20View%20All%20Repos-000000?style=for-the-badge&logo=github&logoColor=00ff00&color=000000&labelColor=000000" />
     </a>
     &nbsp;
-    <a href="https://github.com/sil3nt-wolf?tab=stars">
+    <a href="https://github.com/WOLFTECH-254?tab=stars">
       <img src="https://img.shields.io/badge/⭐%20Starred%20Repos-000000?style=for-the-badge&logo=github&logoColor=00ff00&color=000000&labelColor=000000" />
     </a>
   </p>
@@ -80,19 +80,19 @@
   #### 📊 LANGUAGE & ACTIVITY BREAKDOWN
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sil3nt-wolf&theme=github_dark" alt="Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WOLFTECH-254&theme=github_dark" alt="Profile Summary" />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sil3nt-wolf&theme=github_dark" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WOLFTECH-254&theme=github_dark" alt="Repos Per Language" />
     &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sil3nt-wolf&theme=github_dark" alt="Most Commit Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WOLFTECH-254&theme=github_dark" alt="Most Commit Language" />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sil3nt-wolf&theme=github_dark" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WOLFTECH-254&theme=github_dark" alt="Stats" />
     &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sil3nt-wolf&theme=github_dark&utcOffset=3" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WOLFTECH-254&theme=github_dark&utcOffset=3" alt="Productive Time" />
   </p>
 
   ---
@@ -100,7 +100,7 @@
   ### 🏆 GITHUB TROPHIES
 
   <p align="center">
-    <img src="https://gh-profile-trophy.vercel.app/?username=sil3nt-wolf&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
+    <img src="https://gh-profile-trophy.vercel.app/?username=WOLFTECH-254&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
   </p>
 
   ---
@@ -135,7 +135,7 @@
 
   <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sil3nt-wolf&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=003300&hide_border=true" alt="Activity Graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=WOLFTECH-254&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=003300&hide_border=true" alt="Activity Graph">
     </a>
   </p>
 
@@ -156,7 +156,7 @@
     <a href="https://t.me/silent_wolf_ke">
       <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=00ff00" />
     </a>
-    <a href="https://github.com/sil3nt-wolf">
+    <a href="https://github.com/WOLFTECH-254">
       <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00ff00" />
     </a>
   </p>
