@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff00&height=180&section=header&text=Briton%20Kiplangat&fontSize=52&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20WhatsApp%20Bot%20Engineer%20%7C%20%F0%9F%87%B0%F0%9F%87%AA%20Kenya&descAlignY=58&descSize=16&descColor=9ca3af&fontFamily=monospace" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff00&height=180&section=header&text=WOLF%20TECH&fontSize=58&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20WhatsApp%20Bot%20Engineer%20%7C%20%F0%9F%87%B0%F0%9F%87%AA%20Kenya&descAlignY=58&descSize=16&descColor=9ca3af&fontFamily=monospace" />
 </p>
 
 <p align="center">
@@ -37,16 +37,15 @@ A production-grade WhatsApp bot built from scratch with **Node.js** and **Bailey
 
 ---
 
-### 🖥️ [wolfXnode](https://github.com/WOLFTECH-254/wolfXnode) — Bot Hosting Platform
+### 🗄️ [wolfXbase](https://github.com/WOLFTECH-254/wolfXbase) — Database Layer
 
-A Heroku-style hosting platform built specifically for WhatsApp bots. Deploy directly from GitHub, monitor real-time logs, and manage subscriptions via **M-Pesa and Paystack** — solving a real affordability problem for African developers.
+Core database foundation and base utilities powering the WolfTech ecosystem. Built for reliability and reuse across projects.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfXnode&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfXbase&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
 </p>
 
-**Stack:** Node.js · React · Nginx · PM2 · PostgreSQL · M-Pesa API · Paystack  
-**Live:** [host.xwolf.space](https://host.xwolf.space)
+**Stack:** Node.js · SQLite · PostgreSQL
 
 ---
 
@@ -69,7 +68,7 @@ Static documentation site for wolfXcore panel — neon cyberpunk design built fo
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&show_rank=true&hide_rank=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
