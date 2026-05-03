@@ -37,7 +37,7 @@ A fully-featured **open-source WhatsApp bot** built from scratch using **Node.js
 Built for developers who need a reliable, community-ready **WhatsApp bot MD** with minimal setup and maximum power.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WOLFTECH-254&repo=silentwolf&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=silentwolf&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
 </p>
 
 **Stack:** Node.js · Baileys · JavaScript · SQLite  
@@ -54,7 +54,7 @@ Built for developers who need a reliable, community-ready **WhatsApp bot MD** wi
 The foundational database engine and utility library powering the entire **WOLFTECH ecosystem**. Engineered for reliability, reuse, and seamless integration across automation projects. Supports multi-database environments for flexible backend architecture.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfXbase&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfXbase&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
 </p>
 
 **Stack:** Node.js · SQLite · PostgreSQL  
@@ -67,7 +67,7 @@ The foundational database engine and utility library powering the entire **WOLFT
 Static documentation site for the **wolfXcore** hosting panel — built with a neon cyberpunk aesthetic and structured for developer clarity. A reference hub for the full WOLFTECH automation ecosystem.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfxcore-docs&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfxcore-docs&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
 </p>
 
 ---
@@ -94,7 +94,7 @@ I operate at the intersection of **automation engineering**, **backend infrastru
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&show_rank=true&hide_rank=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&show_rank=true&hide_rank=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ I operate at the intersection of **automation engineering**, **backend infrastru
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFTECH-254&theme=chartreuse-dark&layout=compact&hide_border=true&langs_count=6&bg_color=000000&title_color=00ff00&text_color=9ca3af&hide=css,html" alt="Top Languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=WOLFTECH-254&theme=chartreuse-dark&layout=compact&hide_border=true&langs_count=6&bg_color=000000&title_color=00ff00&text_color=9ca3af&hide=css,html" alt="Top Languages" />
 </p>
 
 ---
