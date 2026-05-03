@@ -49,16 +49,16 @@ Built for developers who need a reliable, community-ready **WhatsApp bot MD** wi
 
 ---
 
-### 🗄️ [wolfXbase](https://github.com/WOLFTECH-254/wolfXbase) — Core Database Layer
+### 🐺 [silentwolf-1.1.6](https://github.com/WOLFTECH-254/silentwolf-1.1.6) — Stable Release Archive
 
-The foundational database engine and utility library powering the entire **WOLFTECH ecosystem**. Engineered for reliability, reuse, and seamless integration across automation projects. Supports multi-database environments for flexible backend architecture.
+The **stable 1.1.6 release** of the silentwolf framework — a snapshot of the production-ready version widely deployed across African developer communities. A reliable starting point for forks and custom builds.
 
 <p align="left">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=wolfXbase&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true&description_lines_count=2" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=WOLFTECH-254&repo=silentwolf-1.1.6&bg_color=000000&title_color=00ff00&text_color=9ca3af&icon_color=00ff00&hide_border=true" />
 </p>
 
-**Stack:** Node.js · SQLite · PostgreSQL  
-**Use Case:** Shared data layer for WhatsApp bots, automation pipelines, and backend services
+**Stack:** Node.js · Baileys · JavaScript  
+**Traction:** ⭐ 12 stars · 🍴 14 forks
 
 ---
 
