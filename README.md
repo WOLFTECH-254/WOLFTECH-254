@@ -162,7 +162,7 @@ I operate at the intersection of **SaaS engineering**, **automation systems**, a
 
 > *This section helps developers and recruiters find this profile.*
 
-uptime monitoring SaaS · website monitoring tool · open source uptime monitor · self-hosted monitoring · WhatsApp bot developer · WhatsApp automation bot · Baileys WhatsApp bot Node.js · open source WhatsApp bot · WhatsApp bot MD · chatbot automation system · Node.js WhatsApp bot GitHub · Kenya developer · African tech · Paystack M-Pesa integration · Node.js SaaS developer · VPS hosting automation · backend engineer Kenya · React TypeScript SaaS · PostgreSQL drizzle ORM
+wolftech · wolfxmonitor · uptime monitoring SaaS · website monitoring tool · open source uptime monitor · self-hosted monitoring · WhatsApp bot developer · WhatsApp automation bot · Baileys WhatsApp bot Node.js · open source WhatsApp bot · WhatsApp bot MD · chatbot automation system · Node.js WhatsApp bot GitHub · Kenya developer · African tech · Paystack M-Pesa integration · Node.js SaaS developer · VPS hosting automation · backend engineer Kenya · React TypeScript SaaS · PostgreSQL drizzle ORM
 
 ---
 
