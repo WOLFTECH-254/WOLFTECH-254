@@ -111,7 +111,7 @@ I operate at the intersection of **SaaS engineering**, **automation systems**, a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WOLFTECH-254&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=9ca3af&show_rank=true&rank_icon=percentile" alt="GitHub Stats" />
 </p>
 
 <p align="center">
