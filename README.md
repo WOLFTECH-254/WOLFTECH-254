@@ -80,7 +80,7 @@ A production-grade, open-source **WhatsApp automation framework** built on Node.
 ---
 
 ### 📡 [Guardix](https://github.com/WOLVAREX/wolfXmonitor) — Open-Source Uptime Monitoring SaaS
-> **Live at:** [monitor.xwolf.space](https://guardix.wolvarex.com)
+> **Live at:** [guardix.wolvarex.com](https://guardix.wolvarex.com)
 
 A production-grade, open-source **uptime monitoring SaaS** — think UptimeRobot, built in Kenya. Real-time health checks for websites and APIs, instant email alerts on downtime, and beautiful **public status pages** — all with Free and Pro plans powered by **Paystack + M-Pesa**.
 
