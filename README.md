@@ -56,7 +56,7 @@ WOLVAREX
 ## 🚀 Products & Projects
 
 ### ☁️ nodeX — Heroku-Style Node.js Hosting Platform
-> **Live at:** [host.xwolf.space](https://nodex.wolvarex.com)
+> **Live at:** [nodex.wolvarex.com](https://nodex.wolvarex.com)
 
 A **fully custom cloud hosting platform** built for Node.js applications — specifically designed around the needs of WhatsApp bot developers and automation engineers in Africa. Deploy, manage, and scale apps without touching raw VPS configuration. Native **M-Pesa payment integration** for African users.
 
