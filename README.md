@@ -22,7 +22,7 @@
   <img src="https://i.ibb.co/PGzQmvLf/silentwolf.jpg" alt="Briton Kiplangat — WOLVAREX" width="150" style="border-radius: 50%;" />
 </p>
 
-I'm **Briton Kiplangat** — founder of **WOLF TECH** (a [WOLVAREX](https://wolvarex.co.ke) company) and a self-taught full-stack engineer who turns curiosity into creation. I build production-grade **SaaS products**, **open-source developer tools**, **REST APIs**, and **automation systems** — shipped and running at scale across Africa.
+I'm **Briton Kiplangat** — founder of **WOLF TECH** (a [WOLVAREX](https://wolvarex.com) company) and a self-taught full-stack engineer who turns curiosity into creation. I build production-grade **SaaS products**, **open-source developer tools**, **REST APIs**, and **automation systems** — shipped and running at scale across Africa.
 
 I don't build side projects. I build **products**: uptime monitors, hosting platforms, public APIs, bot frameworks, and infrastructure tooling — all deployed, live, and used by real developers.
 
