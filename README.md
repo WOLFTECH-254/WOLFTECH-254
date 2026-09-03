@@ -55,8 +55,8 @@ WOLVAREX
 
 ## 🚀 Products & Projects
 
-### ☁️ wolfXnode — Heroku-Style Node.js Hosting Platform
-> **Live at:** [host.xwolf.space](https://host.xwolf.space)
+### ☁️ nodeX — Heroku-Style Node.js Hosting Platform
+> **Live at:** [host.xwolf.space](https://nodex.wolvarex.com)
 
 A **fully custom cloud hosting platform** built for Node.js applications — specifically designed around the needs of WhatsApp bot developers and automation engineers in Africa. Deploy, manage, and scale apps without touching raw VPS configuration. Native **M-Pesa payment integration** for African users.
 
@@ -79,8 +79,8 @@ A production-grade, open-source **WhatsApp automation framework** built on Node.
 
 ---
 
-### 📡 [wolfXmonitor](https://github.com/WOLVAREX/wolfXmonitor) — Open-Source Uptime Monitoring SaaS
-> **Live at:** [monitor.xwolf.space](https://monitor.xwolf.space)
+### 📡 [Guardix](https://github.com/WOLVAREX/wolfXmonitor) — Open-Source Uptime Monitoring SaaS
+> **Live at:** [monitor.xwolf.space](https://guardix.wolvarex.com)
 
 A production-grade, open-source **uptime monitoring SaaS** — think UptimeRobot, built in Kenya. Real-time health checks for websites and APIs, instant email alerts on downtime, and beautiful **public status pages** — all with Free and Pro plans powered by **Paystack + M-Pesa**.
 
