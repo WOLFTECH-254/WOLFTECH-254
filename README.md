@@ -227,7 +227,7 @@ I operate at the intersection of **product engineering**, **API infrastructure**
 
 > *This section helps developers and recruiters find this profile.*
 
-Full-stack developer Kenya · Node.js SaaS developer Africa · open source developer Kenya · uptime monitoring SaaS open source · free Spotify API Node.js · M-Pesa payment integration Node.js · Paystack integration Kenya · REST API developer Africa · VPS infrastructure engineer Kenya · Node.js hosting platform · WhatsApp bot framework Baileys · WhatsApp automation Node.js · backend engineer Kenya · React Node.js developer Kenya · PostgreSQL developer Africa · African tech open source · Nairobi software engineer · WOLF TECH Kenya · WOLVAREX · wolfXmonitor · silentwolf bot
+· Node.js SaaS developer Africa · open source developer Kenya · uptime monitoring SaaS open source · free Spotify API Node.js · M-Pesa payment integration Node.js · Paystack integration Kenya · REST API developer Africa · VPS infrastructure engineer Kenya · Node.js hosting platform · WhatsApp bot framework Baileys · WhatsApp automation Node.js · backend engineer Kenya · React Node.js developer Kenya · PostgreSQL developer Africa · African tech open source · Nairobi software engineer · WOLF TECH Kenya · WOLVAREX · wolfXmonitor · silentwolf bot
 
 ---
 
